@@ -117,13 +117,8 @@ body {
 .devider {
   width: 100%;
   height: 3px;
-<<<<<<< HEAD
   margin: 30px 0 70px 0;
   background: #6DA0C7;
-=======
-  background: #6DA0C7;
-  margin: 30px 0 30px 0;
->>>>>>> 707f037ee003f49f857b5c5066c9564d6e67378f
 }
 
 .logo {
@@ -263,7 +258,6 @@ body {
   .logo {
     padding: 30px 0 30px 0;
     display: flex;
-<<<<<<< HEAD
     justify-content: space-around;
   }
   .logo img {
@@ -274,11 +268,3 @@ body {
     display: none;
   }
 }
-=======
-    -ms-flex-pack: distribute;
-        justify-content: space-around; }
-    .logo img {
-      width: 140px;
-      height: 40px; } }
-/*# sourceMappingURL=style.css.map */
->>>>>>> 707f037ee003f49f857b5c5066c9564d6e67378f
